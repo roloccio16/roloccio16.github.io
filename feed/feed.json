@@ -9,6 +9,12 @@
     "url": ""
   },
   "items": [{
+      "id": "https://update-me.com/posts/alexpost/",
+      "url": "https://update-me.com/posts/alexpost/",
+      "title": "This is my alex post.",
+      "content_html": "<p>this is a draft post, by setting <code>draft: true</code> on the frontmatter, the post would not be built but you'll be able to see it in development mode.</p>\n<h1 id=\"golferio.com\"><a href=\"http://Golferio.com\">Golferio.com</a> <a class=\"direct-link\" href=\"#golferio.com\">#</a></h1>\n",
+      "date_published": "2021-06-22T00:00:00+00:00"
+    },{
       "id": "https://update-me.com/posts/fourthpost/",
       "url": "https://update-me.com/posts/fourthpost/",
       "title": "This is my fourth post.",
